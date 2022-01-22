@@ -72,7 +72,7 @@ header > h1 {
     padding-bottom: 20px ;
 }
 
-header > p {
+header  p {
     color: white;
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
